@@ -1,0 +1,2 @@
+# maxterm
+MaxAi sur terminal
